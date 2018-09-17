@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-//Dank memes
+
 using namespace std;
 
 
